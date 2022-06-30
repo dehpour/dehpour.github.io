@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second Test"
-date:   "`r Sys.Date()`"
+date:   {{ site.time | date: '%y' }}
 ---
 1
 2
