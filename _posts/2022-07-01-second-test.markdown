@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second Test"
-date:   2022-07-01
+date:   "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 1
 2
