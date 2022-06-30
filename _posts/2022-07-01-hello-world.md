@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Hello World"
-date:   2022-07-01 00:01:00 +0430
+author: "My name"
+date: \`r format(Sys.Date(), "%B %d, %Y")`\
 ---
 Hello
+🥇
