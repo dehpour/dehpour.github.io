@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second Test"
-date:   {{ site.time | date: '%y' }}
+date:   "%Y-%m-%d %H:%M"
 ---
 1
 2
