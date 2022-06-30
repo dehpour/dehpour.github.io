@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second Test"
-date:   `r Sys.Date()`
+date:   "`r Sys.Date()`"
 ---
 1
 2
