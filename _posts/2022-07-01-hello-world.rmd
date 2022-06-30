@@ -2,7 +2,13 @@
 layout: post
 title:  "Hello World"
 author: "My name"
-date:   \today
+date:   2022-06-01 01:22:00 +0430
 ---
 Hello
+'\time'
+\time
+\date
+\today
+'\today'
+"\today"
 🥇
