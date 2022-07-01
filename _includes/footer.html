@@ -2,12 +2,9 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title | escape }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           <li><a href="mailto:{{ site.second_email }}">{{ site.second_email }}</a></li>
         </ul>
@@ -20,7 +17,7 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+        <p>{{ site.footer_description | escape }}</p>
       </div>
     </div>
 
