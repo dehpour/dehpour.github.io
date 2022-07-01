@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div class="home">
-  <figure>
-  <img src="http://students.sbu.ac.ir/dehpour/img/avatar.jpg" style="max-width:200px;" class="center">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-  </figure>
+  <div class="center">
+  <img src="http://students.sbu.ac.ir/dehpour/img/avatar.jpg" style="max-width:200px;">
+  <figcaption>{{ site.cover_caption | escape }}</figcaption>
+  </div>
   <p>{{ site.first_page | escape }}</p>
 
 </div>
