@@ -22,11 +22,10 @@ title: Mehran Dehpour
 subtitle: Physics Graduate Student
 email: m.dehpour@protonmail.com
 second_email: m.dehpour@mail.sbu.ac.ir
-first_page: Salaam!
+first_page: Salaam! My name is Mehran Dehpour. I am an aspiring particle physicist interested in dark matter and BSM physics. Currently I am a member of the SuperCDMS collaboration.
 description: >- # this means to ignore newlines until "baseurl:"
   Here my page
-  
-footer_description: You can contact me via email.
+footer_description: Department of Physics, <br>  Shahid Beheshti University, <br> Tehran 19839, <br> Islamic Republic of Iran
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: m.dehpour
