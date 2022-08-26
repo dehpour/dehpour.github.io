@@ -30,7 +30,7 @@ first_page: Salaam! I’m a graduate student interested in particle phenomenolog
 
 cover_caption: Here I was in the Vakil Mosque when I traveled to Shiraz, Iran in Winter 2022.
 
-baseurl: "https://students.sbu.ac.ir/dehpour/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
