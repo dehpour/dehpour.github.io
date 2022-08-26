@@ -19,19 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Mehran Dehpour
-description: Physics Graduate Student
+description: Graduate Student of Particle Physics
 
 email: m.dehpour@protonmail.com
 second_email: m.dehpour@mail.sbu.ac.ir
 footer_description: Department of Physics, Shahid Beheshti University, Tehran 19839, Islamic Republic of Iran
-twitter_username: m.dehpour
 instagram_username: m.dehpour
 
 first_page: Salaam! I’m a graduate student interested in particle phenomenology. I spent four years in the Shahid Beheshti University as a bachelor student, and am currently a MSc student at Shahid Beheshti University.
 
 cover_caption: Here I was in the Vakil Mosque when I traveled to Shiraz, Iran in Winter 2022.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://students.sbu.ac.ir/dehpour/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
