@@ -3,7 +3,7 @@ layout: post
 title:  "General Relativity"
 category: notes
 ---
-Here I share own notes on general relativity which I learned in graduate courses. please report any errors found to [m.dehpour@protonmail.com][mail]
+Here I share own notes on general relativity which I learned in graduate courses. please report any errors found to me.
 
 Notice these notes are in Persian and handwritten.
 
@@ -18,7 +18,6 @@ Notice these notes are in Persian and handwritten.
 |[5][5]             |Black holes              |Rindler metric, Schwarzschild metric, Kerr metric, Thermodynamics of black holes              |
 |[6][6]             |Gravitational waves              |Linearize of field equation, The energy of gravitational waves, Solution of gravitational waves, Gravitational waves, and binary system              |
 
-[mail]:    mailto:m.dehpour@protonmail.com
 [1]:       https://github.com/dehpour/dehpour.github.io/raw/main/2022-12-13-general-relativity/GR_CHAP1_4002.pdf
 [2]:       https://github.com/dehpour/dehpour.github.io/raw/main/2022-12-13-general-relativity/GR_CHAP2_4002.pdf
 [3]:       https://github.com/dehpour/dehpour.github.io/raw/main/2022-12-13-general-relativity/GR_CHAP3_4011.pdf
