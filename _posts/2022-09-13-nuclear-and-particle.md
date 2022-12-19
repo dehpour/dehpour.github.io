@@ -23,7 +23,7 @@ category: courses
 |[PS1][1]      |              |
 |[PS2][2]      |              |
 
-### [Participation list with their scores][https://github.com/dehpour/dehpour.github.io/raw/main/2022-09-13-nuclear-and-particle/Participation.pdf]
+[Participation list with their scores][https://github.com/dehpour/dehpour.github.io/raw/main/2022-09-13-nuclear-and-particle/Participation.pdf]
 
 [sahar_mail]:    mailto:shr.safari@mail.sbu.ac.ir
 [gousheh_mail]:  mailto:ss-gousheh@sbu.ac.ir
