@@ -12,9 +12,9 @@ category: courses
 ### Schedules
 + Lectures: Sundays and Tuesdays at 09:00 - 10:30 @ Classroom 5
 
-+ 1st TA class: Wendsday 1401/09/23 at 13:30 @ [Google Meet][googlemeet] you can find recorded file [here][c1]
-+ 2nd TA class: Wendsday 1401/09/30 at 13:30 @ [Google Meet][googlemeet]
-+ 3rd TA class: Wendsday 1401/10/07 at 13:30 @ [Google Meet][googlemeet]
++ 1st TA class: Wednesday 1401/09/23 at 13:30 @ [Google Meet][googlemeet] you can find recorded file [here][c1]
++ 2nd TA class: Wednesday 1401/09/30 at 13:30 @ [Google Meet][googlemeet]
++ 3rd TA class: Wednesday 1401/10/07 at 13:30 @ [Google Meet][googlemeet]
 
 + Final Exam: Monday 1401/10/19 at 14:00
 
