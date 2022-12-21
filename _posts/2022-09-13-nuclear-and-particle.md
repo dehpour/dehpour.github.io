@@ -23,10 +23,10 @@ category: courses
 
 ### Homework Assignments
 
-|Series        |Solutions     |
-|--------------|--------------|
-|[PS1][1]      |              |
-|[PS2][2]      |              |
+|Series        |
+|--------------|
+|[PS1][1]      |
+|[PS2][2]      |
 
 [Participation list with their scores][parti]
 
