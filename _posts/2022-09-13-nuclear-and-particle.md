@@ -13,7 +13,7 @@ category: courses
 + Lectures: Sundays and Tuesdays at 09:00 - 10:30 @ Classroom 5
 
 + 1st TA class: Wednesday 1401/09/23 at 13:30 @ [Google Meet][googlemeet] you can find recorded file [here][c1]
-+ 2nd TA class: Wednesday 1401/09/30 at 13:30 @ [Google Meet][googlemeet]
++ 2nd TA class: Wednesday 1401/09/30 at 13:30 @ [Google Meet][googlemeet] you can find recorded file [here][c2]
 + 3rd TA class: Wednesday 1401/10/07 at 13:30 @ [Google Meet][googlemeet]
 
 + Final Exam: Monday 1401/10/19 at 14:00
@@ -34,7 +34,8 @@ category: courses
 [gousheh_mail]:  mailto:ss-gousheh@sbu.ac.ir
 
 [googlemeet]:  https://meet.google.com/hbv-kncc-nab
-[c1]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/ETqf51m2YURJpNXAfPOfALMBHi2BAv8ATzL_48etgi0hrg?e=4adsgV
+[c1]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/ETqf51m2YURJpNXAfPOfALMBmOTP-ikcVFr3yKkKlWXa4g?e=aHh96g
+[c2]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EYMVe0roENlOjQT1YLjrUD0BSF86jJsEWOH_6xBfBiq2Ig?e=A9C1SG
 
 [parti]: https://github.com/dehpour/dehpour.github.io/raw/main/2022-09-13-nuclear-and-particle/Participation.pdf
 [1]: http://dehpour.github.io/2022-09-13-nuclear-and-particle/PS1.pdf
