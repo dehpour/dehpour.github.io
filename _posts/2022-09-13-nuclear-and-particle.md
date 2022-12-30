@@ -40,7 +40,7 @@ category: courses
 [c2]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EYMVe0roENlOjQT1YLjrUD0BSF86jJsEWOH_6xBfBiq2Ig?e=A9C1SG
 [c3]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EQxrHpluLi5FloJ-cBL4jYQBjSgsbS_Kd0bKhot1qRhT0w?e=xxhItk
 
-[parti]: https://github.com/dehpour/dehpour.github.io/raw/main/2022-09-13-nuclear-and-particle/Participation.pdf
+[parti]: https://dehpour.github.io/2022-09-13-nuclear-and-particle/Participation.pdf
 [1]: http://dehpour.github.io/2022-09-13-nuclear-and-particle/PS1.pdf
 [2]: http://dehpour.github.io/2022-09-13-nuclear-and-particle/PS2.pdf
 [3]: http://dehpour.github.io/2022-09-13-nuclear-and-particle/PS3.pdf
