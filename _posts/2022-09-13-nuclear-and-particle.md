@@ -17,11 +17,7 @@ category: courses
 + 3rd TA class: Friday 1401/10/09 at 11:00 @ [Google Meet][googlemeet] you can find recorded file [here][c3]
 
 + Final Exam: Monday 1401/10/19 at 14:00
-{% capture warning %}
-**Warning:** An alternative rail-replacement bus service is in operation this weekend.<br/>
-For updated timetables, click [here]({% post_url 2021/2021-12-17-jekyll-alerts %}).
-{% endcapture %}
-{% include alerts/warning.html content=warning %}
+> :warning: **If you are using mobile browser**: Be very careful here!
 
 ### Refrences
 + Martin, B. R., and G. Shaw. *Nuclear and Particle Physics: An Introduction.* Third edition, Wiley, 2019.
