@@ -17,6 +17,7 @@ category: courses
 + 3rd TA class: Friday 1401/10/09 at 11:00 @ [Google Meet][googlemeet] you can find recorded file [here][c3]
 
 + Final Exam: Monday 1401/10/19 at 14:00
+
 > ⚠️ To prepare for the exam, it is enough to master only the class lectures.
 
 ### Refrences
