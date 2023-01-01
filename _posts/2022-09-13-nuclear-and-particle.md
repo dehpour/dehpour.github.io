@@ -15,9 +15,9 @@ category: courses
 + 1st TA class: Wednesday 1401/09/23 at 13:30 @ [Google Meet][googlemeet] you can find recorded file [here][c1]
 + 2nd TA class: Wednesday 1401/09/30 at 13:30 @ [Google Meet][googlemeet] you can find recorded file [here][c2]
 + 3rd TA class: Friday 1401/10/09 at 11:00 @ [Google Meet][googlemeet] you can find recorded file [here][c3]
-+ 4th TA class: Thursday 1401/10/15 at 11:00 @ [Google Meet][googlemeet]
 
 + Final Exam: Monday 1401/10/19 at 14:00
+{% include note.html content="This is my note. All the content I type here is treated as a single paragraph." %}
 
 ### Refrences
 + Martin, B. R., and G. Shaw. *Nuclear and Particle Physics: An Introduction.* Third edition, Wiley, 2019.
