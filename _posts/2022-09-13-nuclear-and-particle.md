@@ -17,12 +17,14 @@ category: courses
 + 3rd TA class: Friday 1401/10/09 at 11:00 @ [Google Meet][googlemeet] you can find recorded file [here][c3]
 
 + Final Exam: Monday 1401/10/19 at 14:00
-> :warning: **If you are using mobile browser**: Be very careful here!
+> ⚠️ To prepare for the exam, it is enough to master only the class lectures.
 
 ### Refrences
 + Martin, B. R., and G. Shaw. *Nuclear and Particle Physics: An Introduction.* Third edition, Wiley, 2019.
 
 ### Homework Assignments
+
+> ⚠️ Note that your answers must have all the details and step-by-step calculations.
 
 |Series        |
 |--------------|
