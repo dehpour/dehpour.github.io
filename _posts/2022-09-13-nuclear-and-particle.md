@@ -26,7 +26,7 @@ category: courses
 ### Scores
 + Homeworks: 10 Points
 + Final Exam: 10 Points
-+ Optional problem set (PS4): 2 Point (Bonus)
++ Optional problem set (PS4): 2 Points (Bonus)
 
 ### Homework Assignments
 
