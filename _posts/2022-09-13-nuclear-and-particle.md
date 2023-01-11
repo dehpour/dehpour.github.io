@@ -23,6 +23,11 @@ category: courses
 ### Refrences
 + Martin, B. R., and G. Shaw. *Nuclear and Particle Physics: An Introduction.* Third edition, Wiley, 2019.
 
+### Scores
++ Homeworks: 10 Points
++ Final Exam: 10 Points
++ Optional problem set (PS4): 2 Point (Bonus)
+
 ### Homework Assignments
 
 > ⚠️ Note that your answers must have all the details and step-by-step calculations.
