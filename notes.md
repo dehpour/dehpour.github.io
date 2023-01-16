@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /notes/
-title: Personal Notes
+title: Notes
 ---
 <p>These are the notes I’ve taken while learning physics. They’re quite compact and don’t usually correspond closely with any particular course; instead they’re packed full of all the neat things I’ve found reading books.</p>
 
