@@ -8,7 +8,7 @@ Here I share own notes on general relativity which I learned in graduate courses
 + Notice these notes are in Persian and handwritten.
 
 ### Primary Sources
-+ Padmanabhan, T. Gravitation: Foundations and Frontiers. Cambridge University Press, 2010. \
++ Padmanabhan, T. Gravitation: Foundations and Frontiers. Cambridge University Press, 2010.
 + D’Inverno, Ray, and James Vickers. Introducing Einstein’s Relativity: A Deeper Understanding. Second, Oxford University Press, 2021.
 
 |Chapter       |Section       |Subsections   |
