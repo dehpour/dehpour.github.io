@@ -19,9 +19,6 @@ category: courses
 + Young, Hugh D., and Roger A. Freedman. University Physics with Modern Physics: In SI Units. Fifteenth edition / Global edition, Pearson, 2019.
 
 ### Scores
-+ Homeworks: 10 Points
-+ Final Exam: 10 Points
-+ Optional problem set (PS4): 2 Points (Bonus)
 
 ### Homework Assignments
 
