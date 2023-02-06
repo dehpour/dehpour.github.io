@@ -31,4 +31,4 @@ category: courses
 [sahar_mail]:    mailto:shr.safari@mail.sbu.ac.ir
 [gousheh_mail]:  mailto:ss-gousheh@sbu.ac.ir
 
-[parti]: https://dehpour.github.io/2023-02-05-general-physics-ii.md/Participation.pdf
+[parti]: https://dehpour.github.io/2023-02-05-general-physics-ii/Participation.pdf
