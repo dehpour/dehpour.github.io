@@ -21,6 +21,7 @@ category: courses
 > ⚠️ To prepare for the exam, it is enough to master only the class lectures.
 
 ### Refrences
+The first three chapters of:
 + Martin, B. R., and G. Shaw. *Nuclear and Particle Physics: An Introduction.* Third edition, Wiley, 2019.
 
 ### Scores
