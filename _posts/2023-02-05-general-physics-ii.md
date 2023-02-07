@@ -19,9 +19,13 @@ category: courses
 From chapter 21 to end of the chapter 32 of:
 + Young, Hugh D., and Roger A. Freedman. University Physics with Modern Physics: In SI Units. Fifteenth edition / Global edition, Pearson, 2019.
 
+> ℹ️ Please read the main text and examples of the textbook completely.
+
 ### Scores
 
 ### Homework Assignments
+
+> 🚫 Please do not copy answers from each other or from the solution manual
 
 |Series        |
 |--------------|
