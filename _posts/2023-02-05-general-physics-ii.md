@@ -16,6 +16,7 @@ category: courses
 
 
 ### Refrences
+From chapter 21 to end of the chapter 32 of:
 + Young, Hugh D., and Roger A. Freedman. University Physics with Modern Physics: In SI Units. Fifteenth edition / Global edition, Pearson, 2019.
 
 ### Scores
