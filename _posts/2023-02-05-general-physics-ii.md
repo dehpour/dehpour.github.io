@@ -24,7 +24,7 @@ category: courses
 
 |Series        |
 |--------------|
-|              |
+|[PS1][1]      |
 
 [Participation list with their scores][parti]
 
@@ -32,3 +32,4 @@ category: courses
 [gousheh_mail]:  mailto:ss-gousheh@sbu.ac.ir
 
 [parti]: https://dehpour.github.io/2023-02-05-general-physics-ii/Participation.pdf
+[1]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS1.pdf
