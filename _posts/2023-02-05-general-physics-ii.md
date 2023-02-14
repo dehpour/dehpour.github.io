@@ -41,4 +41,4 @@ From chapter 21 to end of the chapter 32 of:
 
 [parti]: https://dehpour.github.io/2023-02-05-general-physics-ii/Participation.pdf
 [1]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS1.pdf
-[1]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS2.pdf
+[2]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS2.pdf
