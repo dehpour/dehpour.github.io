@@ -3,6 +3,8 @@ layout: post
 title:  "General Physics II"
 category: courses
 ---
+> ⏰ This page will be update every Tuesdays.
+
 ### General Information
 + Instructor: Prof. Siamak Gousheh [📬][gousheh_mail]
 + Teching Assistants/Graders: Mehran Dehpour and Sahar Safari [📬][sahar_mail]
@@ -30,6 +32,7 @@ From chapter 21 to end of the chapter 32 of:
 |Series        |
 |--------------|
 |[PS1][1]      |
+|[PS2][2]      |
 
 [Participation list with their scores][parti]
 
@@ -38,3 +41,4 @@ From chapter 21 to end of the chapter 32 of:
 
 [parti]: https://dehpour.github.io/2023-02-05-general-physics-ii/Participation.pdf
 [1]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS1.pdf
+[1]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS2.pdf
