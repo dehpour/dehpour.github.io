@@ -26,10 +26,10 @@ From chapter 21 to end of the chapter 32 of:
 
 > 🚫 Please do not copy answers from each other or from the solution manual
 
-|Series                       |
-|-----------------------------|
-|[PS1][1]|                    |
-|[PS2][2]|[Solution][S2]      |
+|Series                        |
+|------------------------------|
+|[PS1][1]|                     |
+|[PS2][2]|[Solutions][S2]      |
 
 [Participation list with their scores][parti]
 
