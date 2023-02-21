@@ -25,10 +25,10 @@ From section 4 of chapter 3 until end of chapter 6 of:
 
 ### Homework Assignments
 
-|Series        |
-|--------------|
-|[PS1][1]      |
-|[PS2][2]      |
+|Series                        |
+|------------------------------|
+|[PS1][1]|                     |
+|[PS2][2]|[Solutions][S2]      |
 
 [Participation list with their scores][parti]
 
@@ -38,3 +38,4 @@ From section 4 of chapter 3 until end of chapter 6 of:
 [parti]: https://dehpour.github.io/2023-02-05-advanced-quantum-ii/Participation.pdf
 [1]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
 [2]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS2.pdf
+[S2]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S2.pdf
