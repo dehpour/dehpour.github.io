@@ -21,8 +21,6 @@ category: courses
 From section 4 of chapter 3 until end of chapter 6 of:
 + Sakurai, Jun John, and Jim Napolitano. Modern Quantum Mechanics. 3rd ed, Cambridge University Press, 2021.
 
-### Scores
-
 ### Homework Assignments
 
 |Series                        |
