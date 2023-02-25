@@ -25,9 +25,9 @@ From section 4 of chapter 3 until end of chapter 6 of:
 
 |Series                        |
 |------------------------------|
-|[PS1][1]|                     |
+|[PS1][1]|[Solutions][S1]      |
 |[PS2][2]|[Solutions][S2]      |
-|[PS3][3]|                     |
+|[PS3][3]|[Solutions][S3]      |
 
 [Participation list with their scores][parti]
 
@@ -36,6 +36,8 @@ From section 4 of chapter 3 until end of chapter 6 of:
 
 [parti]: https://dehpour.github.io/2023-02-05-advanced-quantum-ii/Participation.pdf
 [1]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
+[S1]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S1.pdf
 [2]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS2.pdf
 [S2]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S2.pdf
 [3]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS3.pdf
+[S3]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S3.pdf
