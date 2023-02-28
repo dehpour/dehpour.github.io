@@ -24,13 +24,13 @@ category: courses
 
 |Series                        |
 |------------------------------|
-|[PS1][1]|[Solutions]      |
+|[PS1][1]|     |
 
 [Participation list with their scores][parti]
 
 [sahar_mail]:    mailto:shr.safari@mail.sbu.ac.ir
 [abdussalam_mail]:  mailto:abdussalam@sbu.ac.ir
 
-[parti]: https://dehpour.github.io/2023-02-05-quantum-field-i.md/Participation.pdf
-[1]: http://dehpour.github.io/2023-02-05-quantum-field-i.md/PS1.pdf
-[S1]: http://dehpour.github.io/2023-02-05-quantum-field-i.md/S1.pdf
+[parti]: https://dehpour.github.io/2023-02-05-quantum-field-i/Participation.pdf
+[1]: http://dehpour.github.io/2023-02-05-quantum-field-i/PS1.pdf
+[S1]: http://dehpour.github.io/2023-02-05-quantum-field-i/S1.pdf
