@@ -24,7 +24,7 @@ category: courses
 
 |Series                        |
 |------------------------------|
-|[PS1][1]|[Solutions][S1]      |
+|[PS1][1]|[Solutions]      |
 
 [Participation list with their scores][parti]
 
