@@ -35,3 +35,5 @@ category: courses
 [parti]: https://dehpour.github.io/2023-02-05-quantum-field-i/Participation.pdf
 [1]: http://dehpour.github.io/2023-02-05-quantum-field-i/PS1.pdf
 [S1]: http://dehpour.github.io/2023-02-05-quantum-field-i/S1.pdf
+[2]: http://dehpour.github.io/2023-02-05-quantum-field-i/PS2.pdf
+[S2]: http://dehpour.github.io/2023-02-05-quantum-field-i/S2.pdf
