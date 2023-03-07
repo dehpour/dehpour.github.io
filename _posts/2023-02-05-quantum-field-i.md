@@ -3,7 +3,7 @@ layout: post
 title:  "Quantum Field Theory I"
 category: courses
 ---
-> ⏰ This page will be update every Mondays.
+> ⏰ This page will be update every Tuesdays.
 
 ### General Information
 + Instructor: Prof. Shehu AbdusSalam [📬][abdussalam_mail]
@@ -24,7 +24,7 @@ category: courses
 
 |Series                        |
 |------------------------------|
-|[PS1][1]|     |
+|[PS1][1]|[Solutions][S1]      |
 
 [Participation list with their scores][parti]
 
