@@ -45,8 +45,8 @@ From chapter 21 to end of the chapter 32 of:
 [S2]: http://dehpour.github.io/2023-02-05-general-physics-ii/S2.pdf
 [3]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS3.pdf
 [S3]: http://dehpour.github.io/2023-02-05-general-physics-ii/S3.pdf
-[4]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS3.pdf
-[S4]: http://dehpour.github.io/2023-02-05-general-physics-ii/S3.pdf
-[5]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS3.pdf
-[S5]: http://dehpour.github.io/2023-02-05-general-physics-ii/S3.pdf
+[4]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS4.pdf
+[S4]: http://dehpour.github.io/2023-02-05-general-physics-ii/S4.pdf
+[5]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS5.pdf
+[S5]: http://dehpour.github.io/2023-02-05-general-physics-ii/S5.pdf
 
