@@ -28,7 +28,7 @@ From section 4 of chapter 3 until end of chapter 6 of:
 |[PS1][1]|[Solutions][S1]      |
 |[PS2][2]|[Solutions][S2]      |
 |[PS3][3]|[Solutions][S3]      |
-|[PS4][4]| |
+|[PS4][4]|[Solutions][S4]      |
 
 [Participation list with their scores][parti]
 
