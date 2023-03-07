@@ -12,7 +12,7 @@ category: courses
 + Winter 2023
 
 ### Schedules
-+ Lectures: Saturdays and Mondays at 10:30 - 12:00
++ Lectures: Saturdays and Mondays at 10:30 - 12:00 @ Classroom 5
 
 + Final Exam: Saturday 1402/03/20 at 09:00 - 11:00
 
@@ -25,6 +25,7 @@ category: courses
 |Series                        |
 |------------------------------|
 |[PS1][1]|[Solutions][S1]      |
+|[PS2][2]| |
 
 [Participation list with their scores][parti]
 
