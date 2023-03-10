@@ -3,10 +3,8 @@ layout: post
 title:  "Quantum Field Theory I"
 category: courses
 ---
-> ⏰ This page will be update every Tuesdays.
 
 ### General Information
-+ Instructor: Prof. Shehu AbdusSalam [📬][abdussalam_mail]
 + Teching Assistants/Graders: Seyed Reza Ojaghi, Mehran Dehpour and Sahar Safari [📬][sahar_mail]
 + Department of Physics, Shahid Behehshti University
 + Winter 2023
@@ -30,7 +28,6 @@ category: courses
 [Participation list with their scores][parti]
 
 [sahar_mail]:    mailto:shr.safari@mail.sbu.ac.ir
-[abdussalam_mail]:  mailto:abdussalam@sbu.ac.ir
 
 [parti]: https://dehpour.github.io/2023-02-05-quantum-field-i/Participation.pdf
 [1]: http://dehpour.github.io/2023-02-05-quantum-field-i/PS1.pdf
