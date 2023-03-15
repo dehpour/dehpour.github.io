@@ -3,7 +3,6 @@ layout: post
 title:  "General Physics II"
 category: courses
 ---
-> ⏰ This page will be update every Tuesdays.
 
 ### General Information
 + Instructor: Prof. Siamak Gousheh [📬][gousheh_mail]
@@ -32,6 +31,7 @@ From chapter 21 to end of the chapter 32 of:
 |[PS3][3]|[Solutions][S3]      |
 |[PS4][4]|[Solutions][S4]      |
 |[PS5][5]| |
+|[PS6][6]| |
 
 [Participation list with their scores][parti]
 
@@ -49,4 +49,5 @@ From chapter 21 to end of the chapter 32 of:
 [S4]: http://dehpour.github.io/2023-02-05-general-physics-ii/S4.pdf
 [5]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS5.pdf
 [S5]: http://dehpour.github.io/2023-02-05-general-physics-ii/S5.pdf
-
+[6]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS6.pdf
+[S6]: http://dehpour.github.io/2023-02-05-general-physics-ii/S6.pdf
