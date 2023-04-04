@@ -28,8 +28,8 @@ From section 4 of chapter 3 until end of chapter 6 of:
 |[PS2][2]|[Solutions][S2]      |
 |[PS3][3]|[Solutions][S3]      |
 |[PS4][4]|[Solutions][S4]      |
-|[PS5][5]| |
-|[PS6][6]| |
+|[PS5][5]|[Solutions][S5]      |
+|[PS6][6]|[Solutions][S6]      |
 
 [Participation list with their scores][parti]
 
