@@ -4,7 +4,6 @@ title:  "Nuclear and Elementary Particle Physics"
 category: courses
 ---
 ### General Information
-+ Instructor: Prof. Siamak Gousheh [📬][gousheh_mail]
 + Teching Assistants/Graders: Mehran Dehpour and Sahar Safari [📬][sahar_mail]
 + Department of Physics, Shahid Behehshti University
 + Fall 2022
