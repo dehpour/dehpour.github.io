@@ -23,7 +23,8 @@ category: courses
 |Series                        |
 |------------------------------|
 |[PS1][1]|[Solutions][S1]      |
-|[PS2][2]| |
+|[PS2][2]|[Solutions][S2]      |
+|[PS3][3]| |
 
 [Participation list with their scores][parti]
 
@@ -34,3 +35,5 @@ category: courses
 [S1]: http://dehpour.github.io/2023-02-05-quantum-field-i/S1.pdf
 [2]: http://dehpour.github.io/2023-02-05-quantum-field-i/PS2.pdf
 [S2]: http://dehpour.github.io/2023-02-05-quantum-field-i/S2.pdf
+[3]: http://dehpour.github.io/2023-02-05-quantum-field-i/PS3.pdf
+[S3]: http://dehpour.github.io/2023-02-05-quantum-field-i/S3.pdf
