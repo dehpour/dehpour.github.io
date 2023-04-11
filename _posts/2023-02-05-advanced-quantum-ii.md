@@ -11,7 +11,12 @@ category: courses
 
 ### Schedules
 + Lectures: Saturdays and Mondays at 15:30 - 17:30 @ Classroom 5
++ Additional Class:
++ Additional Class:
++ Additional Class:
++ Additional Class:
 
++ Midterm: 
 + Final Exam: Monday 1402/03/23 at 09:00 - 11:00
 
 
