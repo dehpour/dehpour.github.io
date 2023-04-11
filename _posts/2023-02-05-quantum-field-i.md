@@ -11,7 +11,9 @@ category: courses
 
 ### Schedules
 + Lectures: Saturdays and Mondays at 10:30 - 12:00 @ Classroom 5
-
++ TA classes: Saturdays and Mondays at 13:00 - 15:00
++ Quiz: Monday 1402/01/21 at 13:00 - 14:00 from chapters 2, and 3 of refrence textbook
++ Midterm Exam: Monday 1402/02/04 at 10:30 - 12:00
 + Final Exam: Saturday 1402/03/20 at 09:00 - 11:00
 
 
