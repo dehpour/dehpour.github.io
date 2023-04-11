@@ -30,6 +30,7 @@ From section 4 of chapter 3 until end of chapter 6 of:
 |[PS4][4]|[Solutions][S4]      |
 |[PS5][5]|[Solutions][S5]      |
 |[PS6][6]|[Solutions][S6]      |
+|[PS7][7]| |
 
 [Participation list with their scores][parti]
 
@@ -49,3 +50,5 @@ From section 4 of chapter 3 until end of chapter 6 of:
 [S5]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S5.pdf
 [6]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS6.pdf
 [S6]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S6.pdf
+[7]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS7.pdf
+[S7]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S7.pdf
