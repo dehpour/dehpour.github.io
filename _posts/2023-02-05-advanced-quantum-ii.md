@@ -34,7 +34,7 @@ From section 4 of chapter 3 until end of chapter 6 of:
 |[PS4][4]|[Solutions][S4]      |
 |[PS5][5]|[Solutions][S5]      |
 |[PS6][6]|[Solutions][S6]      |
-|[PS7][7]| |
+|[PS7][7]|  |
 
 [Participation list with their scores][parti]
 
