@@ -12,7 +12,7 @@ category: courses
 ### Schedules
 + Lectures: Sundays and Tuesdays at 10:00 - 12:00 @ Classroom 1
 
-+ Quiz: Tuesday 1402/01/29 at 11:30 - 12:00 from chapters 21, 22, and 23 of refrence textbook
++ [Quiz][Q1]: Tuesday 1402/01/29 at 11:30 - 12:00 from chapters 21, 22, and 23 of refrence textbook
 + Midterm Exam: Tuesday 1402/02/12 at 10:00 - 12:00
 + Final Exam: Monday 1402/03/20 at 08:00 - 10:00
 
@@ -34,6 +34,7 @@ From chapter 21 to end of the chapter 32 of:
 |[PS5][5]|[Solutions][S5]      |
 |[PS6][6]|[Solutions][S6]      |
 |[PS7][7]| |
+|[PS8][8]| |
 
 [Participation list with their scores][parti]
 
@@ -55,3 +56,6 @@ From chapter 21 to end of the chapter 32 of:
 [S6]: http://dehpour.github.io/2023-02-05-general-physics-ii/S6.pdf
 [7]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS7.pdf
 [S7]: http://dehpour.github.io/2023-02-05-general-physics-ii/S7.pdf
+[Q1]: http://dehpour.github.io/2023-02-05-general-physics-ii/Q1.pdf
+[8]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS8.pdf
+[S8]: http://dehpour.github.io/2023-02-05-general-physics-ii/S8.pdf
