@@ -6,7 +6,6 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-          <li><a href="mailto:{{ site.second_email }}">{{ site.second_email }}</a></li>
         </ul>
       </div>
 
@@ -17,7 +16,19 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.footer_description | escape }}</p>
+            <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0001-9706-9984"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0001-9706-9984
+    </a>
       </div>
     </div>
 
