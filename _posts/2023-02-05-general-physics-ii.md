@@ -33,7 +33,7 @@ From chapter 21 to end of the chapter 32 of:
 |[PS4][4]|[Solutions][S4]      |
 |[PS5][5]|[Solutions][S5]      |
 |[PS6][6]|[Solutions][S6]      |
-|[PS7][7]| |
+|[PS7][7]|[Solutions][S7]      |
 |[Quiz 1][Q1]|[Solutions][SQ1]      |
 |[PS8][8]| |
 
