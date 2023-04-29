@@ -11,10 +11,11 @@ category: courses
 
 ### Schedules
 + Lectures: Saturdays and Mondays at 15:30 - 17:30 @ Classroom 5
-+ Additional Class:
-+ Additional Class:
-+ Additional Class:
-+ Additional Class:
++ Additional Class: Wednesday 1402/02/13 at 14:30 - 16:00 @ LMS
++ Additional Class: Wednesday 1402/02/20 at 14:30 - 16:00 @ LMS
++ Additional Class: Wednesday 1402/02/27 at 14:30 - 16:00 @ LMS
++ Additional Class: Wednesday 1402/03/03 at 14:30 - 16:00 @ LMS
++ Additional Class: Wednesday 1402/03/10 at 14:30 - 16:00 @ LMS
 
 + Midterm: 
 + Final Exam: Monday 1402/03/23 at 09:00 - 11:00
