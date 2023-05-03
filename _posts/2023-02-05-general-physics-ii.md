@@ -43,7 +43,6 @@ From chapter 21 to end of the chapter 32 of:
 |[PS7][7]|[Solutions][S7]      |
 |[Quiz 1][Q1]|[Solutions][SQ1]      |
 |[PS8][8]| |
-|[Midterm][M]| |
 
 [Participation list with their scores][parti]
 
