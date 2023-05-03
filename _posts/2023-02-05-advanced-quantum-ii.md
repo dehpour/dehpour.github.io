@@ -11,11 +11,11 @@ category: courses
 
 ### Schedules
 + Lectures: Saturdays and Mondays at 15:30 - 17:30 @ Classroom 5
-+ Additional Class: Wednesday 1402/02/13 at 14:30 - 16:00 @ LMS
-+ Additional Class: Wednesday 1402/02/20 at 14:30 - 16:00 @ LMS
-+ Additional Class: Wednesday 1402/02/27 at 14:30 - 16:00 @ LMS
-+ Additional Class: Wednesday 1402/03/03 at 14:30 - 16:00 @ LMS
-+ Additional Class: Wednesday 1402/03/10 at 14:30 - 16:00 @ LMS
++ Additional Class: Wednesday 1402/02/13 at 14:30 - 16:00 @ [Google Meet][gmeet] you can find recorded file [here][a1]
++ Additional Class: Wednesday 1402/02/20 at 14:30 - 16:00 @ [Google Meet][gmeet]
++ Additional Class: Wednesday 1402/02/27 at 14:30 - 16:00 @ [Google Meet][gmeet]
++ Additional Class: Wednesday 1402/03/03 at 14:30 - 16:00 @ [Google Meet][gmeet]
++ Additional Class: Wednesday 1402/03/10 at 14:30 - 16:00 @ [Google Meet][gmeet]
 
 + Midterm: 
 + Final Exam: Monday 1402/03/23 at 09:00 - 11:00
@@ -41,6 +41,9 @@ From section 4 of chapter 3 until end of chapter 6 of:
 
 [sahar_mail]:    mailto:shr.safari@mail.sbu.ac.ir
 [gousheh_mail]:  mailto:ss-gousheh@sbu.ac.ir
+
+[a1] : https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EaYGUnq7b01Kten4VRtj3joBTKXFvqJbQdK-LS33c3P4Aw?e=eEfDrm
+[gmeet]: https://meet.google.com/ruk-cmwi-aie
 
 [parti]: https://dehpour.github.io/2023-02-05-advanced-quantum-ii/Participation.pdf
 [1]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
