@@ -68,5 +68,3 @@ From chapter 21 to end of the chapter 32 of:
 [SQ1]: http://dehpour.github.io/2023-02-05-general-physics-ii/SQ1.pdf
 [8]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS8.pdf
 [S8]: http://dehpour.github.io/2023-02-05-general-physics-ii/S8.pdf
-[M]:
-[SM]:
