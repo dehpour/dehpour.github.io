@@ -12,15 +12,22 @@ category: courses
 ### Schedules
 + Lectures: Sundays and Tuesdays at 10:00 - 12:00 @ Classroom 1
 
-+ Quiz 1: Tuesday 1402/01/29 at 11:30 - 12:00 according to chapters 21, 22, and 23 of ref. textbook
-+ Midterm Exam: Tuesday 1402/02/17 at 10:00 - 12:00 accroding to chapter 21 to the end of 27 of ref. textbook
-+ Final Exam: Monday 1402/03/20 at 08:00 - 10:00
++ Quiz 1: Tuesday 1402/01/29 at 11:30 - 12:00 according to chapters 21, 22, and 23
++ Midterm: Tuesday 1402/02/17 at 10:00 - 12:00 accroding to chapter 21 to the end of 27
++ Quiz 2: 
++ Final: Monday 1402/03/20 at 08:00 - 10:00
 
 ### Refrences
 From chapter 21 to end of the chapter 32 of:
 + Young, Hugh D., and Roger A. Freedman. University Physics with Modern Physics: In SI Units. Fifteenth edition / Global edition, Pearson, 2019.
 
 > ℹ️ Please read the main text and examples of the textbook completely.
+
+### Scores
++ Homeworks: 3 Points
++ Quizes: 3 Points
++ Midterm: 6 Points
++ Final: 8 Points
 
 ### Homework Assignments
 
@@ -36,6 +43,7 @@ From chapter 21 to end of the chapter 32 of:
 |[PS7][7]|[Solutions][S7]      |
 |[Quiz 1][Q1]|[Solutions][SQ1]      |
 |[PS8][8]| |
+|[Midterm][M]| |
 
 [Participation list with their scores][parti]
 
@@ -61,3 +69,5 @@ From chapter 21 to end of the chapter 32 of:
 [SQ1]: http://dehpour.github.io/2023-02-05-general-physics-ii/SQ1.pdf
 [8]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS8.pdf
 [S8]: http://dehpour.github.io/2023-02-05-general-physics-ii/S8.pdf
+[M]:
+[SM]:
