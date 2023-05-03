@@ -12,8 +12,8 @@ category: courses
 ### Schedules
 + Lectures: Sundays and Tuesdays at 10:00 - 12:00 @ Classroom 1
 
-+ Quiz 1: Tuesday 1402/01/29 at 11:30 - 12:00 from chapters 21, 22, and 23 of refrence textbook
-+ Midterm Exam: Tuesday 1402/02/17 at 10:00 - 12:00
++ Quiz 1: Tuesday 1402/01/29 at 11:30 - 12:00 according to chapters 21, 22, and 23 of ref. textbook
++ Midterm Exam: Tuesday 1402/02/17 at 10:00 - 12:00 accroding to chapter 21 to the end of 27 of ref. textbook
 + Final Exam: Monday 1402/03/20 at 08:00 - 10:00
 
 ### Refrences
