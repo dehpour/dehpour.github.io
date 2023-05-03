@@ -11,7 +11,7 @@ category: courses
 
 ### Schedules
 + Lectures: Saturdays and Mondays at 15:30 - 17:30 @ Classroom 5
-+ Additional Class: Wednesday 1402/02/13 at 14:30 - 16:00 @ [Google Meet][gmeet] you can find recorded file [here][a1]
++ Additional Class: Wednesday 1402/02/13 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a1])
 + Additional Class: Wednesday 1402/02/20 at 14:30 - 16:00 @ [Google Meet][gmeet]
 + Additional Class: Wednesday 1402/02/27 at 14:30 - 16:00 @ [Google Meet][gmeet]
 + Additional Class: Wednesday 1402/03/03 at 14:30 - 16:00 @ [Google Meet][gmeet]
