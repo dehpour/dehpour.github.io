@@ -17,13 +17,17 @@ category: courses
 + Additional Class: Wednesday 1402/03/03 at 14:30 - 16:00 @ [Google Meet][gmeet]
 + Additional Class: Wednesday 1402/03/10 at 14:30 - 16:00 @ [Google Meet][gmeet]
 
-+ Midterm: 
++ Midterm Exam: 1402/03/02 at 15:30 - 17:30
 + Final Exam: Monday 1402/03/23 at 09:00 - 11:00
-
 
 ### Refrences
 From section 4 of chapter 3 until end of chapter 6 of:
 + Sakurai, Jun John, and Jim Napolitano. Modern Quantum Mechanics. 3rd ed, Cambridge University Press, 2021.
+
+### Scores
++ Homeworks: 6 Points
++ Midterm Exam: 6 Points
++ Final Exam: 8 Points
 
 ### Homework Assignments
 
