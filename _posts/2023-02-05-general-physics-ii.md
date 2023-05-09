@@ -42,7 +42,7 @@ From chapter 21 to end of the chapter 32 of:
 |[PS6][6]|[Solutions][S6]      |
 |[PS7][7]|[Solutions][S7]      |
 |[Quiz 1][Q1]|[Solutions][SQ1]      |
-|[PS8][8]| |
+|[PS8][8]|[Solutions][S8]      |
 
 [Participation list with their scores][parti]
 
