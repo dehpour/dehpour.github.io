@@ -43,6 +43,7 @@ From chapter 21 to end of the chapter 32 of:
 |[PS7][7]|[Solutions][S7]      |
 |[Quiz 1][Q1]|[Solutions][SQ1]      |
 |[PS8][8]|[Solutions][S8]      |
+|[PS9][9] |
 
 [Participation list with their scores][parti]
 
@@ -68,3 +69,5 @@ From chapter 21 to end of the chapter 32 of:
 [SQ1]: http://dehpour.github.io/2023-02-05-general-physics-ii/SQ1.pdf
 [8]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS8.pdf
 [S8]: http://dehpour.github.io/2023-02-05-general-physics-ii/S8.pdf
+[9]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS9.pdf
+[S9]: http://dehpour.github.io/2023-02-05-general-physics-ii/S9.pdf
