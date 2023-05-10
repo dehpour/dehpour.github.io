@@ -30,7 +30,6 @@ From section 4 of chapter 3 until end of chapter 6 of:
 + Final Exam: 8 Points
 
 ### Homework Assignments
-
 |Series                        |
 |------------------------------|
 |[PS1][1]|[Solutions][S1]      |
