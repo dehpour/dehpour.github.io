@@ -11,6 +11,7 @@ category: courses
 
 ### Schedules
 + Lectures: Saturdays and Mondays at 15:30 - 17:30 @ Classroom 5
+
 + Additional Class: Wednesday 1402/02/13 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a1])
 + Additional Class: Wednesday 1402/02/20 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a2])
 + Additional Class: Wednesday 1402/02/27 at 16:30 - 18:00 @ [Google Meet][gmeet] ([recorded file][a3])
@@ -29,8 +30,8 @@ From section 4 of chapter 3 until end of chapter 6 of:
 + Midterm Exam: 6 Points
 + Final Exam: 8 Points
 
-### Homework Assignments
 |Series                        |
+|------------------------------|
 |[PS1][1]|[Solutions][S1]      |
 
 [Participation list with their scores][parti]
