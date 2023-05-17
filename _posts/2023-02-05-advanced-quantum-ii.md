@@ -45,9 +45,7 @@ From section 4 of chapter 3 until end of chapter 6 of:
 
 [sahar_mail]:    mailto:shr.safari@mail.sbu.ac.ir
 [gousheh_mail]:  mailto:ss-gousheh@sbu.ac.ir
-
 [parti]: https://dehpour.github.io/2023-02-05-advanced-quantum-ii/Participation.pdf
-
 [1]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
 [S1]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S1.pdf
 [2]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS2.pdf
@@ -64,10 +62,7 @@ From section 4 of chapter 3 until end of chapter 6 of:
 [S7]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S7.pdf
 [8]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS8.pdf
 [S8]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S8.pdf
-[9]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS9.pdf
-
 [gmeet]: https://meet.google.com/ruk-cmwi-aie
-
 [a1]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EaYGUnq7b01Kten4VRtj3joBTKXFvqJbQdK-LS33c3P4Aw?e=vKZge1
 [a2]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EeYEc47uQKJFhnp27JRp1MoBz3zrODmhnefVrU5UZlVEsw?e=SS5W0l
 [a3]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EUrC374rV9RMq7zvWVjlpNkBuv7J2oqA_loMZDVMkuR4tg?e=Hfj06h
