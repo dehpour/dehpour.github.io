@@ -14,7 +14,7 @@ category: courses
 
 + Additional Class: Wednesday 1402/02/13 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a1])
 + Additional Class: Wednesday 1402/02/20 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a2])
-+ Additional Class: Wednesday 1402/02/27 at 16:30 - 18:00 @ [Google Meet][gmeet]
++ Additional Class: Wednesday 1402/02/27 at 16:30 - 18:00 @ [Google Meet][gmeet] ([recorded file][a3])
 + Additional Class: Wednesday 1402/03/03 at 14:30 - 16:00 @ [Google Meet][gmeet]
 + Additional Class: Wednesday 1402/03/10 at 14:30 - 16:00 @ [Google Meet][gmeet]
 
@@ -33,6 +33,14 @@ From section 4 of chapter 3 until end of chapter 6 of:
 |Series                        |
 |------------------------------|
 |[PS1][1]|[Solutions][S1]      |
+|[PS1][2]|[Solutions][S2]      |
+|[PS1][3]|[Solutions][S3]      |
+|[PS1][4]|[Solutions][S4]      |
+|[PS1][5]|[Solutions][S5]      |
+|[PS1][6]|[Solutions][S6]      |
+|[PS1][7]|[Solutions][S7]      |
+|[PS1][8]|[Solutions][S8]      |
+|[PS1][9]|      |
 
 [Participation list with their scores][parti]
 
@@ -41,6 +49,22 @@ From section 4 of chapter 3 until end of chapter 6 of:
 [parti]: https://dehpour.github.io/2023-02-05-advanced-quantum-ii/Participation.pdf
 [1]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
 [S1]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S1.pdf
+[2]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
+[S2]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S1.pdf
+[3]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
+[S3]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S1.pdf
+[4]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
+[S4]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S1.pdf
+[5]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
+[S5]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S1.pdf
+[6]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
+[S6]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S1.pdf
+[7]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
+[S7]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S1.pdf
+[8]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
+[S8]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S1.pdf
+[9]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS1.pdf
+[S9]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S1.pdf
 [gmeet]: https://meet.google.com/ruk-cmwi-aie
 [a1]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EaYGUnq7b01Kten4VRtj3joBTKXFvqJbQdK-LS33c3P4Aw?e=vKZge1
 [a2]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EeYEc47uQKJFhnp27JRp1MoBz3zrODmhnefVrU5UZlVEsw?e=SS5W0l
