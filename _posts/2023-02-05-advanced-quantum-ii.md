@@ -14,7 +14,7 @@ category: courses
 
 + Additional Class: Wednesday 1402/02/13 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a1])
 + Additional Class: Wednesday 1402/02/20 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a2])
-+ Additional Class: Wednesday 1402/02/27 at 16:30 - 18:00 @ [Google Meet][gmeet] ([recorded file][a3])
++ Additional Class: Wednesday 1402/02/27 at 16:30 - 18:00 @ [Google Meet][gmeet]
 + Additional Class: Wednesday 1402/03/03 at 14:30 - 16:00 @ [Google Meet][gmeet]
 + Additional Class: Wednesday 1402/03/10 at 14:30 - 16:00 @ [Google Meet][gmeet]
 
@@ -44,4 +44,4 @@ From section 4 of chapter 3 until end of chapter 6 of:
 [gmeet]: https://meet.google.com/ruk-cmwi-aie
 [a1]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EaYGUnq7b01Kten4VRtj3joBTKXFvqJbQdK-LS33c3P4Aw?e=vKZge1
 [a2]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EeYEc47uQKJFhnp27JRp1MoBz3zrODmhnefVrU5UZlVEsw?e=SS5W0l
-[a2]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EUrC374rV9RMq7zvWVjlpNkBuv7J2oqA_loMZDVMkuR4tg?e=Hfj06h
+[a3]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EUrC374rV9RMq7zvWVjlpNkBuv7J2oqA_loMZDVMkuR4tg?e=Hfj06h
