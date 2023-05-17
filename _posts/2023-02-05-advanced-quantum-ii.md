@@ -39,7 +39,8 @@ From section 4 of chapter 3 until end of chapter 6 of:
 |[PS5][5]|[Solutions][S5]      |
 |[PS6][6]|[Solutions][S6]      |
 |[PS7][7]|[Solutions][S7]      |
-|[PS8][8]|  |
+|[PS8][8]|[Solutions][S8]      |
+|[PS9][9]|  |
 
 [Participation list with their scores][parti]
 
@@ -68,4 +69,4 @@ From section 4 of chapter 3 until end of chapter 6 of:
 
 [a1]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EaYGUnq7b01Kten4VRtj3joBTKXFvqJbQdK-LS33c3P4Aw?e=vKZge1
 [a2]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EeYEc47uQKJFhnp27JRp1MoBz3zrODmhnefVrU5UZlVEsw?e=SS5W0l
-[a3]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EUrC374rV9RMq7zvWVjlpNkB5CC-hbRIqOgoE4LjfGp4Wg?e=mDgqvd
+[a3]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EUrC374rV9RMq7zvWVjlpNkBuv7J2oqA_loMZDVMkuR4tg?e=Hfj06h
