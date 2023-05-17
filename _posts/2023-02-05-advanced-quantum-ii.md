@@ -40,7 +40,7 @@ From section 4 of chapter 3 until end of chapter 6 of:
 |[PS6][6]|[Solutions][S6]      |
 |[PS7][7]|[Solutions][S7]      |
 |[PS8][8]|[Solutions][S8]      |
-|[PS9][9]|      |
+|[PS9][9]||
 
 [Participation list with their scores][parti]
 
@@ -66,7 +66,6 @@ From section 4 of chapter 3 until end of chapter 6 of:
 [8]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS8.pdf
 [S8]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S8.pdf
 [9]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS9.pdf
-[S9]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S9.pdf
 
 [gmeet]: https://meet.google.com/ruk-cmwi-aie
 
