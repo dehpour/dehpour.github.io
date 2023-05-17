@@ -40,7 +40,6 @@ From section 4 of chapter 3 until end of chapter 6 of:
 |[PS6][6]|[Solutions][S6]      |
 |[PS7][7]|[Solutions][S7]      |
 |[PS8][8]|[Solutions][S8]      |
-|as|asd |
 
 [Participation list with their scores][parti]
 
