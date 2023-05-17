@@ -33,14 +33,14 @@ From section 4 of chapter 3 until end of chapter 6 of:
 |Series                        |
 |------------------------------|
 |[PS1][1]|[Solutions][S1]      |
-|[PS1][2]|[Solutions][S2]      |
-|[PS1][3]|[Solutions][S3]      |
-|[PS1][4]|[Solutions][S4]      |
-|[PS1][5]|[Solutions][S5]      |
-|[PS1][6]|[Solutions][S6]      |
-|[PS1][7]|[Solutions][S7]      |
-|[PS1][8]|[Solutions][S8]      |
-|[PS1][9]|      |
+|[PS2][2]|[Solutions][S2]      |
+|[PS3][3]|[Solutions][S3]      |
+|[PS4][4]|[Solutions][S4]      |
+|[PS5][5]|[Solutions][S5]      |
+|[PS6][6]|[Solutions][S6]      |
+|[PS7][7]|[Solutions][S7]      |
+|[PS8][8]|[Solutions][S8]      |
+|[PS9][9]|      |
 
 [Participation list with their scores][parti]
 
