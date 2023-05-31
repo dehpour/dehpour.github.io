@@ -17,6 +17,7 @@ category: courses
 + Additional Class: Wednesday 1402/02/27 at 16:30 - 18:00 @ [Google Meet][gmeet] ([recorded file][a3])
 + Additional Class: Wednesday 1402/03/03 at 14:30 - 16:00 @ [Google Meet][gmeet]
 + Additional Class: Wednesday 1402/03/10 at 14:30 - 16:00 @ [Google Meet][gmeet]
++ Additional Class: Saturday 1402/03/13 at 15:30 - 17:30 @ [Google Meet][gmeet]
 
 + Midterm Exam: 1402/03/02 at 15:30 - 17:30
 + Final Exam: Monday 1402/03/23 at 09:00 - 11:00
@@ -41,6 +42,7 @@ From section 4 of chapter 3 until end of chapter 6 of:
 |[PS7][7]|[Solutions][S7]      |
 |[PS8][8]|[Solutions][S8]      |
 |[PS9][9]|      |
+|[PS10][10]|      |
 
 [Participation list with their scores][parti]
 
@@ -65,7 +67,10 @@ From section 4 of chapter 3 until end of chapter 6 of:
 [S8]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S8.pdf
 [9]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS9.pdf
 [S9]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S9.pdf
+[10]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS10.pdf
+[S10]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S10.pdf
 [gmeet]: https://meet.google.com/ruk-cmwi-aie
 [a1]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EaYGUnq7b01Kten4VRtj3joBTKXFvqJbQdK-LS33c3P4Aw?e=vKZge1
 [a2]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EeYEc47uQKJFhnp27JRp1MoBz3zrODmhnefVrU5UZlVEsw?e=SS5W0l
 [a3]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EUrC374rV9RMq7zvWVjlpNkBuv7J2oqA_loMZDVMkuR4tg?e=Hfj06h
+[a5]: 
