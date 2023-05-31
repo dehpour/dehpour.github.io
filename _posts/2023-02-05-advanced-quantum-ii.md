@@ -23,7 +23,7 @@ category: courses
 + Final Exam: Monday 1402/03/23 at 09:00 - 11:00
 
 ### Refrences
-From section 4 of chapter 3 until end of chapter 6 of:
+From section 4 of chapter 3 until end of chapter 5 of:
 + Sakurai, Jun John, and Jim Napolitano. Modern Quantum Mechanics. 3rd ed, Cambridge University Press, 2021.
 
 ### Scores
