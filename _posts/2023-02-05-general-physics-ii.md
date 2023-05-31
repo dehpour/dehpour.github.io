@@ -46,6 +46,7 @@ From chapter 21 to end of the chapter 32 of:
 |[Midterm Exam][M]|[Solutions][SM]      |
 |[PS9][9] |
 |[PS10][10] |
+|[Quiz 2][Q2]|      |
 |[PS11][11] |
 
 [Participation list with their scores][parti]
@@ -76,6 +77,8 @@ From chapter 21 to end of the chapter 32 of:
 [S9]: http://dehpour.github.io/2023-02-05-general-physics-ii/S9.pdf
 [10]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS10.pdf
 [S10]: http://dehpour.github.io/2023-02-05-general-physics-ii/S10.pdf
+[Q2]: http://dehpour.github.io/2023-02-05-general-physics-ii/Q2.pdf
+[SQ2]: http://dehpour.github.io/2023-02-05-general-physics-ii/SQ2.pdf
 [11]: http://dehpour.github.io/2023-02-05-general-physics-ii/PS11.pdf
 [S11]: http://dehpour.github.io/2023-02-05-general-physics-ii/S11.pdf
 [M]: http://dehpour.github.io/2023-02-05-general-physics-ii/M.pdf
