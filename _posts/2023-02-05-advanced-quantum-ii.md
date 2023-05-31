@@ -70,6 +70,8 @@ From section 4 of chapter 3 until end of chapter 6 of:
 [S9]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S9.pdf
 [10]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS10.pdf
 [S10]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S10.pdf
+[11]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS11.pdf
+[S11]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S11.pdf
 [gmeet]: https://meet.google.com/ruk-cmwi-aie
 [a1]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EaYGUnq7b01Kten4VRtj3joBTKXFvqJbQdK-LS33c3P4Aw?e=vKZge1
 [a2]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EeYEc47uQKJFhnp27JRp1MoBz3zrODmhnefVrU5UZlVEsw?e=SS5W0l
