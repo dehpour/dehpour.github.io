@@ -17,7 +17,7 @@ category: courses
 + Additional Class: Wednesday 1402/02/27 at 16:30 - 18:00 @ [Google Meet][gmeet] ([recorded file][a3])
 + Additional Class: Wednesday 1402/03/03 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a4])
 + Additional Class: Wednesday 1402/03/10 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a5])
-+ Additional Class: Saturday 1402/03/13 at 15:30 - 17:30 @ LMS
++ Additional Class: Saturday 1402/03/13 at 15:30 - 17:30 @ [LMS][LMS]
 
 + Midterm Exam: 1402/03/02 at 15:30 - 17:30
 + Final Exam: Monday 1402/03/23 at 09:00 - 11:00
@@ -78,3 +78,4 @@ From section 4 of chapter 3 until end of chapter 5 of:
 [a3]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EUrC374rV9RMq7zvWVjlpNkBuv7J2oqA_loMZDVMkuR4tg?e=Hfj06h
 [a4]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EZayRq1Fa4JIhH7SkDPW9jAB68-ZeKpZTyjeHvMvhOscpA?e=yU6ECw
 [a5]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EctB9K7J3PRIj_28Sr2atxMBAXb61vXQxrG7cu-3l9ZZtQ?e=BNYwuB
+[LMS]: http://vu.sbu.ac.ir/
