@@ -27,7 +27,7 @@ category: courses
 |------------------------------|
 |[PS1][1]|[Solutions][S1]      |
 |[PS2][2]|[Solutions][S2]      |
-|[PS3][3]| |
+|[PS3][3]|[Solutions][S3]      |
 
 [Participation list with their scores][parti]
 
