@@ -17,7 +17,7 @@ category: courses
 + Additional Class: Wednesday 1402/02/27 at 16:30 - 18:00 @ [Google Meet][gmeet] ([recorded file][a3])
 + Additional Class: Wednesday 1402/03/03 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a4])
 + Additional Class: Wednesday 1402/03/10 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a5])
-+ Additional Class: Saturday 1402/03/13 at 15:30 - 17:30 @ [LMS][LMS]
++ Additional Class: Saturday 1402/03/13 at 15:30 - 17:30 @ [LMS][LMS] (recorded file is available at LMS)
 
 + Midterm Exam: 1402/03/02 at 15:30 - 17:30
 + Final Exam: Monday 1402/03/23 at 09:00 - 11:00
@@ -41,9 +41,9 @@ From section 4 of chapter 3 until end of chapter 5 of:
 |[PS6][6]|[Solutions][S6]      |
 |[PS7][7]|[Solutions][S7]      |
 |[PS8][8]|[Solutions][S8]      |
-|[PS9][9]|      |
+|[PS9][9]|[Solutions][S9]      |
 |[PS10][10]|      |
-|[PS11][11]|      |
+|[PS11][11]|[Solutions][S11]      |
 
 [Participation list with their scores][parti]
 
