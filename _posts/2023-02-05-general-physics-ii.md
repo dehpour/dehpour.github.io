@@ -18,7 +18,7 @@ category: courses
 + Final Exam: Monday 1402/03/20 at 08:00 - 10:00
 
 ### Refrences
-From chapter 21 to end of the chapter 30 of:
+From chapter 21 to end of the chapter 31 of:
 + Young, Hugh D., and Roger A. Freedman. University Physics with Modern Physics: In SI Units. Fifteenth edition / Global edition, Pearson, 2019.
 
 > ℹ️ Please read the main text and examples of the textbook completely.
@@ -46,7 +46,7 @@ From chapter 21 to end of the chapter 30 of:
 |[Midterm Exam][M]|[Solutions][SM]      |
 |[PS9][9] |
 |[PS10][10] |
-|[Quiz 2][Q2]|      |
+|[Quiz 2][Q2]|[Solutions][SQ2]      |
 |[PS11][11] |
 
 [Participation list with their scores][parti]
