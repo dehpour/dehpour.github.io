@@ -27,9 +27,11 @@ From section 4 of chapter 3 until end of chapter 5 of:
 + Sakurai, Jun John, and Jim Napolitano. Modern Quantum Mechanics. 3rd ed, Cambridge University Press, 2021.
 
 ### Scores
-+ Homeworks: 6 Points
++ Homeworks: 4 Points
 + Midterm Exam: 6 Points
-+ Final Exam: 8 Points
++ Final Exam: 10 Points
+
+### Homework Assignments
 
 |Series                        |
 |------------------------------|
