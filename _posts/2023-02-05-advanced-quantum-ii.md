@@ -19,8 +19,8 @@ category: courses
 + Additional Class: Wednesday 1402/03/10 at 14:30 - 16:00 @ [Google Meet][gmeet] ([recorded file][a5])
 + Additional Class: Saturday 1402/03/13 at 15:30 - 17:30 @ [LMS][LMS] (recorded file is available at LMS)
 
-+ Midterm Exam: 1402/03/02 at 15:30 - 17:30
-+ Final Exam: Monday 1402/03/23 at 09:00 - 11:00
++ Midterm Exam: Tuesday 1402/03/02 at 15:30 - 17:30 accroding to chapter 3
++ Final Exam: Tuesday 1402/03/30 at 09:00 - 11:00 accroding to chapters 3, 4, and 5
 
 ### Refrences
 From section 4 of chapter 3 until end of chapter 5 of:
