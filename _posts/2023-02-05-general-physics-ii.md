@@ -14,8 +14,8 @@ category: courses
 
 + Quiz 1: Tuesday 1402/01/29 at 11:30 - 12:00 according to chapters 21, 22, and 23
 + Midterm Exam: Tuesday 1402/02/17 at 10:00 - 12:00 accroding to chapter 21 to the end of 27
-+ Quiz 2: 
-+ Final Exam: Monday 1402/03/20 at 08:00 - 10:00
++ Quiz 2: Tuesday 1402/03/9 at 11:30 - 12:00 according to chapters 24 to the end of 28
++ Final Exam: Monday 1402/03/20 at 08:00 - 10:00 according to chapters 21 to the end of 31
 
 ### Refrences
 From chapter 21 to end of the chapter 31 of:
