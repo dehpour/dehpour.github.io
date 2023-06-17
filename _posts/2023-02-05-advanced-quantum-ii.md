@@ -45,7 +45,7 @@ From section 4 of chapter 3 until end of chapter 5 of:
 |[PS8][8]|[Solutions][S8]      |
 |[Midterm Exam][M]|     |
 |[PS9][9]|[Solutions][S9]      |
-|[PS10][10]|      |
+|[PS10][10]|[Solutions][S10]      |
 |[PS11][11]|[Solutions][S11]      |
 
 [Participation list with their scores][parti]
