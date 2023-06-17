@@ -43,7 +43,7 @@ From section 4 of chapter 3 until end of chapter 5 of:
 |[PS6][6]|[Solutions][S6]      |
 |[PS7][7]|[Solutions][S7]      |
 |[PS8][8]|[Solutions][S8]      |
-|[Midterm Exam][M]|     |
+|[Midterm Exam][M]|[Solutions][SM]      |
 |[PS9][9]|[Solutions][S9]      |
 |[PS10][10]|[Solutions][S10]      |
 |[PS11][11]|[Solutions][S11]      |
@@ -76,6 +76,7 @@ From section 4 of chapter 3 until end of chapter 5 of:
 [11]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/PS11.pdf
 [S11]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S11.pdf
 [M]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/M.pdf
+[SM]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/SM.pdf
 [gmeet]: https://meet.google.com/ruk-cmwi-aie
 [a1]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EaYGUnq7b01Kten4VRtj3joBTKXFvqJbQdK-LS33c3P4Aw?e=vKZge1
 [a2]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EeYEc47uQKJFhnp27JRp1MoBz3zrODmhnefVrU5UZlVEsw?e=SS5W0l
