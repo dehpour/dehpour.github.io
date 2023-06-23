@@ -48,6 +48,7 @@ From chapter 21 to end of the chapter 31 of:
 |[PS10][10] |
 |[Quiz 2][Q2]|[Solutions][SQ2]      |
 |[PS11][11] |
+|[Final Exam][F]|[Solutions][SF]      |
 
 [Participation list with their scores][parti]
 
@@ -83,3 +84,5 @@ From chapter 21 to end of the chapter 31 of:
 [S11]: http://dehpour.github.io/2023-02-05-general-physics-ii/S11.pdf
 [M]: http://dehpour.github.io/2023-02-05-general-physics-ii/M.pdf
 [SM]: http://dehpour.github.io/2023-02-05-general-physics-ii/SM.pdf
+[F]: http://dehpour.github.io/2023-02-05-general-physics-ii/F.pdf
+[SF]: http://dehpour.github.io/2023-02-05-general-physics-ii/SF.pdf
