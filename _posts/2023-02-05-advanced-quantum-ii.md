@@ -47,6 +47,7 @@ From section 4 of chapter 3 until end of chapter 5 of:
 |[PS9][9]|[Solutions][S9]      |
 |[PS10][10]|[Solutions][S10]      |
 |[PS11][11]|[Solutions][S11]      |
+|[Final Exam][F]|[Solutions][SF]      |
 
 [Participation list with their scores][parti]
 
@@ -77,6 +78,8 @@ From section 4 of chapter 3 until end of chapter 5 of:
 [S11]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/S11.pdf
 [M]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/M.pdf
 [SM]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/SM.pdf
+[F]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/F.pdf
+[SF]: http://dehpour.github.io/2023-02-05-advanced-quantum-ii/SF.pdf
 [gmeet]: https://meet.google.com/ruk-cmwi-aie
 [a1]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EaYGUnq7b01Kten4VRtj3joBTKXFvqJbQdK-LS33c3P4Aw?e=vKZge1
 [a2]: https://mailsbuacir-my.sharepoint.com/:v:/g/personal/m_dehpour_mail_sbu_ac_ir/EeYEc47uQKJFhnp27JRp1MoBz3zrODmhnefVrU5UZlVEsw?e=SS5W0l
