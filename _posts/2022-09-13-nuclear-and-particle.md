@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nuclear and Elementary Particle Physics"
-category: courses
+category: teaching
 ---
 ### General Information
 + Instructor: Siamak Sadat Gousheh [📬][gousheh_mail]
