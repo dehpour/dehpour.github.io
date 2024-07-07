@@ -5,7 +5,7 @@ category: courses
 ---
 
 ### General Information
-+ Instructor: Siamak Sadat Gousheh [:e-mail:][gousheh_mail]
++ Instructor: Siamak Sadat Gousheh [📬][gousheh_mail]
 + Department of Physics, Shahid Behehshti University
 + Winter 2023
 
