@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Quantum Field Theory I"
-category: courses
+category: teaching
 ---
 
 ### General Information
