@@ -29,7 +29,7 @@ category: courses
 [Participation List with Their Scores][parti]
 
 [shehu_site]: https://facultymembers.sbu.ac.ir/abdussalam/
-[shehu_mail]: abdussalam@sbu.ac.ir
+[shehu_mail]: mailto:abdussalam@sbu.ac.ir
 
 [1]: http://dehpour.github.io/2023-02-05-quantum-field-i/PS1.pdf
 [S1]: http://dehpour.github.io/2023-02-05-quantum-field-i/S1.pdf
