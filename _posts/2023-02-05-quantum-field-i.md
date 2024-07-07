@@ -5,7 +5,7 @@ category: courses
 ---
 
 ### General Information
-+ Instructor: Shehu Shuaibu AbdusSalam [:e-mail:][shehu_mail] [💻][shehu_site]
++ Instructor: Shehu Shuaibu AbdusSalam [📬][shehu_mail] [💻][shehu_site]
 + Department of Physics, Shahid Behehshti University
 + Winter 2023
 
@@ -16,6 +16,7 @@ category: courses
 + Final Exam: Saturday 1402/03/20 at 09:00 - 11:00
 
 ### Refrences
+From chapter 1 until the end of chapter 7 of
 + Schwartz, Matthew Dean. Quantum Field Theory and the Standard Model. Cambridge University Press, 2014.
 
 ### Homework Assignments
@@ -26,8 +27,6 @@ category: courses
 |[PS2][2]|[Solutions][S2]      |
 |[PS3][3]|[Solutions][S3]      |
 
-[Participation List with Their Scores][parti]
-
 [shehu_site]: https://facultymembers.sbu.ac.ir/abdussalam/
 [shehu_mail]: mailto:abdussalam@sbu.ac.ir
 
@@ -37,5 +36,3 @@ category: courses
 [S2]: http://dehpour.github.io/2023-02-05-quantum-field-i/S2.pdf
 [3]: http://dehpour.github.io/2023-02-05-quantum-field-i/PS3.pdf
 [S3]: http://dehpour.github.io/2023-02-05-quantum-field-i/S3.pdf
-
-[parti]: https://dehpour.github.io/2023-02-05-quantum-field-i/Participation.pdf
