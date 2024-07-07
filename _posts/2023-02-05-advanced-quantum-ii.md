@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Advanced Quantum Mechanics II"
-category: courses
+category: teaching
 ---
 
 ### General Information
