@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "General Physics II"
-category: courses
+category: teaching
 ---
 
 ### General Information
