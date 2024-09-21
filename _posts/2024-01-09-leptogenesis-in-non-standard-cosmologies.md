@@ -7,3 +7,6 @@ Here I share my master's thesis.
 
 The thesis has been constructed upon the following papers:
 + M. Dehpour, Thermal leptogenesis in nonextensive cosmology, [Eur. Phys. J. C 84 (2024) 340][nonextensive] [[2401.00229][nonextensive-arxiv]]
+
+[nonextensive]: https://doi.org/10.1140/epjc/s10052-024-12697-7
+[nonextensive-arxiv]: https://arxiv.org/abs/2401.00229
