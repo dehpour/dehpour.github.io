@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Leptogenesis in non-standard cosmologies (in Persian)"
-category: notes
+category: notes,slides
 ---
 [Here][thesis] I share my master's thesis.
 
