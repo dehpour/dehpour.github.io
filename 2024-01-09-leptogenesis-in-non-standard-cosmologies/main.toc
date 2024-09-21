@@ -1,0 +1,51 @@
+\contentsline {chapter}{اعلامیه‌ی تالیف}{سوم}{chapter*.1}%
+\contentsline {chapter}{قدردانی}{پنجم}{chapter*.2}%
+\contentsline {chapter}{چکیده}{هفتم}{chapter*.3}%
+\contentsline {chapter}{فهرست مطالب}{هفتم}{chapter*.3}%
+\contentsline {chapter}{فهرست جداول}{دهم}{chapter*.4}%
+\contentsline {chapter}{فهرست تصاویر}{یازدهم}{chapter*.5}%
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}فیزیک نوترینو}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}مقدمه}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}نوترینوها در مدل استاندارد}{4}{section.2.2}%
+\contentsline {subsubsection}{نوترینوی الکترون}{4}{section*.7}%
+\contentsline {subsubsection}{نوترینوی میون}{5}{section*.8}%
+\contentsline {subsubsection}{نوترینوی تاون}{5}{section*.9}%
+\contentsline {section}{\numberline {2.3}نوسان نوترینو}{6}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}فرمول‌بندی نوسان نوترینو}{7}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}وضعیت کنونی آزمایشگاهی نوسان نوترینو}{10}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}نوترینوی جرم‌دار}{12}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}نوترینوی دیراک}{12}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}نوترینوی مایورانا}{13}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}نوترینوی دیراک-مایورانا}{13}{subsection.2.4.3}%
+\contentsline {subsubsection}{سازوکار الاکلنگی نوع-۱}{14}{section*.10}%
+\contentsline {subsubsection}{پارامتریزه کردن کازاس-ایبارا}{15}{section*.11}%
+\contentsline {subsection}{\numberline {2.4.4}وضعیت کنونی آزمایشگاهی جرم نوترینو}{15}{subsection.2.4.4}%
+\contentsline {chapter}{\numberline {3}لپتون‌زایی گرمایی}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}مقدمه}{17}{section.3.1}%
+\contentsline {section}{\numberline {3.2}واپاشی نوترینوی راست دست}{18}{section.3.2}%
+\contentsline {section}{\numberline {3.3}شکست تقارن \lr {\footnotesize CP}}{21}{section.3.3}%
+\contentsline {section}{\numberline {3.4}معادلات بولتزمان}{24}{section.3.4}%
+\contentsline {section}{\numberline {3.5}رابطه‌ی بین عدم تقارن \lr {\footnotesize B-L} و عدم تقارن باریونی}{28}{section.3.5}%
+\contentsline {chapter}{\numberline {4}لپتون‌زایی گرمایی در کیهان نافزونور}{31}{chapter.4}%
+\contentsline {section}{\numberline {4.1}مقدمه}{31}{section.4.1}%
+\contentsline {section}{\numberline {4.2}کیهان‌شناسی نافزونور}{32}{section.4.2}%
+\contentsline {section}{\numberline {4.3}لپتون‌زایی تعمیم یافته}{33}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}مقادیر تعادلی ذرات}{34}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}پارامتر واپاشی}{34}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}پارامتر شستشو}{37}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}رابطه‌ی بین عدم تقارن \lr {\footnotesize B-L} و عدم تقارن باریون}{38}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}نتایج عددی}{39}{section.4.4}%
+\contentsline {chapter}{\numberline {5}لپتون‌زایی گرمایی در کیهان ناهمسانگرد}{41}{chapter.5}%
+\contentsline {section}{\numberline {5.1}مقدمه}{41}{section.5.1}%
+\contentsline {section}{\numberline {5.2}کیهان‌شناسی ناهمسانگرد بیانکی نوع اول}{42}{section.5.2}%
+\contentsline {section}{\numberline {5.3}لپتون‌زایی تعمیم یافته}{43}{section.5.3}%
+\contentsline {section}{\numberline {5.4}نتایج عددی}{45}{section.5.4}%
+\contentsline {chapter}{\numberline {6}جمع‌بندی}{51}{chapter.6}%
+\contentsline {chapter}{\numberline {آ}مباحثی از نظریه‌ی میدان کوانتومی}{53}{appendix.Alph1}%
+\contentsline {section}{\numberline {آ.1}قوائد فاینمن برای میدان‌های نرده‌ای و فرمیون دیراک}{53}{section.Alph1.1}%
+\contentsline {section}{\numberline {آ.2}قوائد فاینمن برای فرمیون‌های مایورانا}{54}{section.Alph1.2}%
+\contentsline {subsection}{\numberline {آ.2.1}انتشارگر فرمیون مایورانا}{54}{subsection.Alph1.2.1}%
+\contentsline {subsection}{\numberline {آ.2.2}ضرایب رئوس شامل فرمیون مایورانا}{55}{subsection.Alph1.2.2}%
+\contentsline {subsection}{\numberline {آ.2.3}خطوط خارجی فرمیون مایورانا}{56}{subsection.Alph1.2.3}%
+\contentsline {chapter}{مراجع}{64}{appendix*.12}%

@@ -1,0 +1,16 @@
+
+\providecommand{\href}[2]{#2}\begingroup\raggedright\begin{thebibliography}{1}
+
+\bibitem{Dehpour:2023dfo}
+M.~Dehpour, \emph{{Thermal leptogenesis in nonextensive cosmology}},
+  \href{https://doi.org/10.1140/epjc/s10052-024-12697-7}{\emph{Eur. Phys. J. C}
+  {\bfseries 84} (2024) 340}
+  [\href{https://arxiv.org/abs/2401.00229}{{\ttfamily 2401.00229}}].
+
+\bibitem{Dehpour:2023wyy}
+M.~Dehpour, \emph{{Thermal leptogenesis in anisotropic cosmology}},
+  \href{https://doi.org/10.1142/S0217751X23501816}{\emph{Int. J. Mod. Phys. A}
+  {\bfseries 38} (2023) 2350181}
+  [\href{https://arxiv.org/abs/2312.10677}{{\ttfamily 2312.10677}}].
+
+\end{thebibliography}\endgroup
