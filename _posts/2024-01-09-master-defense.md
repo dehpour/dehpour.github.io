@@ -12,4 +12,4 @@ It is usually assumed that the Universe was produced initially without matter as
 One could find my master's thesis in [there][thesis].
 
 [slide]: https://www.overleaf.com/read/ctncghycmmbt#1d6f16
-[thesis]: https://dehpour.github.io/notes/2024/01/09/leptogenesis-in-non-standard-cosmologies.html
+[thesis]: https://www.overleaf.com/read/stddhbyhybrn#23cc53
