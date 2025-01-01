@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Neutrino-nucleus Neutral Current scattering"
+title:  "Neutrino-nucleus Neutral Current scattering in the presence of Non-Standard Interaction"
 category: slides
 ---
 [Here][slide] I share slides that I presented at [IWHSS-CPHI-2024][indico]
