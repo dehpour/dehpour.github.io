@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Leptogenesis in non-standard cosmologies"
+title:  "Thermal leptogenesis in nonextensive and anisotropic cosmologies"
 category: slides
 ---
 [Here][slide] I share oral defense slides from my master’s thesis. One could also find my master's thesis in [here][thesis].
