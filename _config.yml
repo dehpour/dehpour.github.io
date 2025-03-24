@@ -23,7 +23,7 @@ description: Master of Science in Particle Physics
 
 email: m.dehpour@proton.me
 
-first_page: Hi! I hold a Master of Science degree in particle physics.
+# first_page:
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
