@@ -16,4 +16,4 @@ Now, I started my work on the measurement of the antiproton production cross sec
 
 In addition, I would like to split HEP study techniques similar to any other physics according to the following figure. 
 ![Image](/assets/img/fields.png)
-I have started to transition from the phenomenological which was my main focus previously to the data approach (which is called the experimental approach when it combines by R\&D of detectors) to capture a wide picture from HEP.
+I have started to transition from the phenomenological which was my main focus previously to the data approach (which is called the experimental approach when it combines by R&D of detectors) to capture a wide picture from HEP.
