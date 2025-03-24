@@ -14,6 +14,6 @@ Then, as I wanted to complete my journey in HEP I used neutrino NSI as a portal 
 
 Now, I started my work on the measurement of the antiproton production cross section which mainly contains hadron physics. However, our main motivation is the indirect search for Dark Matter via comparison of antiproton production in cosmic rays. So, it will help me to close my journey loop by connecting hadron physics to cosmology.
 
-In addition, I would like to split HEP study techniques according to the following figure. 
+In addition, I would like to split HEP study techniques similar to any other physics according to the following figure. 
 ![Image](/assets/img/fields.png)
-I have started to transition from the phenomenological to the data approach (which is called the experimental approach when it combines by R&D of detectors) to capture a wide picture from HEP.
+I have started to transition from the phenomenological which was my main focus previously to the data approach (which is called the experimental approach when it combines by R\&D of detectors) to capture a wide picture from HEP.
